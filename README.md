@@ -9,7 +9,7 @@ This project was completed as part of a Data Analyst internship, applying advanc
 
 ![Tweets with Top 10% Engagement](task1_top10_engagement.png)
 
-📊 [View Power BI File](task1__6_.pbix)
+
 
 ---
 
